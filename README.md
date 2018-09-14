@@ -17,5 +17,15 @@
 # Deep Reinforcement Learning
 [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590)
 
+[The Reactor: A Fast and Sample-efficient Actor-Critic Agent for Reinforcement Learning](https://arxiv.org/abs/1704.04651)
+
+[Distributed Distributional Deterministic Policy Gradients](https://arxiv.org/abs/1804.08617)
+
+[Graph Networks as Learnable Physics Engines for Inference and Control](https://arxiv.org/abs/1806.01242)
+
+[Learning by Playing - Solving Sparse Reward Tasks from Scratch](https://arxiv.org/abs/1802.10567)
+
+[Automatic Goal Generation for Reinforcement Learning Agents](https://arxiv.org/abs/1705.06366)
+
 
 # Applications
