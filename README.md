@@ -15,7 +15,7 @@
 
 
 # Deep Reinforcement Learning
-[Hierarchical Imitation and Reinforcement Learning](Hierarchical Imitation and Reinforcement Learning)
+[Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590)
 
 
 # Applications
