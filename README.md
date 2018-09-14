@@ -29,5 +29,7 @@
 
 [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)
 
+[Latent Space Policies for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1804.02808)
+
 
 # Applications
