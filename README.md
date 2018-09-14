@@ -27,5 +27,7 @@
 
 [Automatic Goal Generation for Reinforcement Learning Agents](https://arxiv.org/abs/1705.06366)
 
+[IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)
+
 
 # Applications
