@@ -6,7 +6,7 @@
 [Structured Control Nets for Deep Reinforcement Learning](https://arxiv.org/abs/1802.08311)
 
 [Learning Policy Representations in Multiagent Systems](https://arxiv.org/abs/1806.06464)
-(*This paper learns a policy network conditioned by the representation of other agents' policy*)
+(*this paper learns a policy network conditioned by the representation of other agents' policy*)
 
 [Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision Problems](http://proceedings.mlr.press/v80/bargiacchi18a.html)
 
