@@ -34,3 +34,4 @@
 
 
 # Applications
+[Reinforcement Learning for Solving the Vehicle Routing Problem](https://arxiv.org/abs/1802.04240)
