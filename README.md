@@ -14,6 +14,8 @@
 
 [Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents](https://arxiv.org/abs/1802.08757)
 
+[Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW)
+
 
 # Deep Reinforcement Learning
 [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590)
