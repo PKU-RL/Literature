@@ -27,6 +27,9 @@
 
 [SSoC: Learning Spontaneous and Self-Organizing Communication for Multi-Agent Collaboration](https://openreview.net/forum?id=rJ4vlh0qtm)
 
+[Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://openreview.net/forum?id=B1lG42C9Km)
+
+
 
 # Deep Reinforcement Learning
 [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590)
