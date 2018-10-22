@@ -20,7 +20,7 @@
 
 [Actor-Attention-Critic for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=HJx7l309Fm)
 
-[Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://openreview.net/forum?id=SJxu5iR9KQ)
+[Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://openreview.net/forum?id=SJxu5iR9KQ) (*This paper considers the bandwidth limitation, i.e., there are a fixed number of agents can communicate at the same time. Agents learns a weight generator that determines which agents should transmit messages similar to that in MAC protocol in wireless networks.*)
 
 [SSoC: Learning Spontaneous and Self-Organizing Communication for Multi-Agent Collaboration](https://openreview.net/forum?id=rJ4vlh0qtm)
 
