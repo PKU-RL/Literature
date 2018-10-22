@@ -16,6 +16,14 @@
 
 [Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW)
 
+[Individualized Controlled Continuous Communication Model for Multiagent Cooperative and Competitive Tasks](https://openreview.net/forum?id=rye7knCqK7)
+
+[Actor-Attention-Critic for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=HJx7l309Fm)
+
+[Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://openreview.net/forum?id=SJxu5iR9KQ)
+
+[SSoC: Learning Spontaneous and Self-Organizing Communication for Multi-Agent Collaboration](https://openreview.net/forum?id=rJ4vlh0qtm)
+
 
 # Deep Reinforcement Learning
 [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590)
