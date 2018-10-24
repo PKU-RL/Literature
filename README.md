@@ -29,7 +29,7 @@
 
 [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://openreview.net/forum?id=B1lG42C9Km)
 
-
+[Evolving Intrinsic Motivations For Altruistic Behavior](https://openreview.net/pdf?id=r1e-nj05FQ)
 
 # Deep Reinforcement Learning
 [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590)
