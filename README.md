@@ -29,6 +29,8 @@
 
 [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://openreview.net/forum?id=B1lG42C9Km)
 
+[TarMAC: Targeted Multi-Agent Communication](https://arxiv.org/abs/1810.11187)
+
 [Evolving Intrinsic Motivations For Altruistic Behavior](https://openreview.net/pdf?id=r1e-nj05FQ)
 
 # Deep Reinforcement Learning
