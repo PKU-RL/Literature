@@ -57,7 +57,7 @@
 [IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control](https://faculty.ist.psu.edu/jessieli/Publications/2018-KDD-IntelliLight.pdf)
 
 
-# Multi-Agent Reinforcement Learning
+# Multi-Agent Reinforcement Learning (for those who are not familar with MARL)
 Learning multiagent communication with backpropagation
 
 Learning to communicate with deep multi-agent reinforcement learning
