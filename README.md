@@ -1,4 +1,4 @@
-# Multi-Agent Reinforcement Learning
+# Recent Multi-Agent Reinforcement Learning
 [Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/abs/1805.07830)
 
 [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](https://arxiv.org/abs/1801.02124)
@@ -55,3 +55,17 @@
 [Reinforcement Learning for Solving the Vehicle Routing Problem](https://arxiv.org/abs/1802.04240)
 
 [IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control](https://faculty.ist.psu.edu/jessieli/Publications/2018-KDD-IntelliLight.pdf)
+
+
+# Multi-Agent Reinforcement Learning
+Learning multiagent communication with backpropagation
+
+Learning to communicate with deep multi-agent reinforcement learning
+
+Multi-agent actor-critic for mixed cooperative-competitive environments
+
+Counterfactual multi-agent policy gradients
+
+Learning attentional communication for multi-Agent cooperation
+
+Mean field multi-agent reinforcement learning
