@@ -12,6 +12,9 @@
 
 
 # Recent Multi-Agent Reinforcement Learning
+
+[Credit Assignment For Collective Multiagent RL with Global Rewards](https://papers.nips.cc/paper/8033-credit-assignment-for-collective-multiagent-rl-with-global-rewards.pdf)
+
 [Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/abs/1805.07830)
 
 [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](https://arxiv.org/abs/1801.02124)
