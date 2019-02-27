@@ -4,7 +4,7 @@
 
 [Relational Forward Models for Multi-Agent Learning](https://openreview.net/pdf?id=rJlEojAqFm)
 
-[Stochastic Prediction of Multi-Agent Interactions from Partial Observations](https://openreview.net/pdf?id=r1xdH3CcKX)
+[Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://openreview.net/pdf?id=rye7knCqK7)
 
 [M^3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://openreview.net/pdf?id=BkzeUiRcY7)
 
