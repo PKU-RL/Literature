@@ -6,8 +6,6 @@
 
 [Stochastic Prediction of Multi-Agent Interactions from Partial Observations](https://openreview.net/pdf?id=r1xdH3CcKX)
 
-[Multi-Agent Dual Learning](https://openreview.net/pdf?id=HyGhN2A5tm)
-
 [M^3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://openreview.net/pdf?id=BkzeUiRcY7)
 
 [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/abs/1901.08492)
