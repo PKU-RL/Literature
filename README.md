@@ -1,6 +1,17 @@
 # MARL 2019
 
+[Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/pdf?id=rkl6As0cF7)
+
+[Relational Forward Models for Multi-Agent Learning](https://openreview.net/pdf?id=rJlEojAqFm)
+
+[Stochastic Prediction of Multi-Agent Interactions from Partial Observations](https://openreview.net/pdf?id=r1xdH3CcKX)
+
+[Multi-Agent Dual Learning](https://openreview.net/pdf?id=HyGhN2A5tm)
+
+[M^3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://openreview.net/pdf?id=BkzeUiRcY7)
+
 [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/abs/1901.08492)
+
 
 # Recent Multi-Agent Reinforcement Learning
 [Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/abs/1805.07830)
@@ -36,6 +47,7 @@
 [TarMAC: Targeted Multi-Agent Communication](https://arxiv.org/abs/1810.11187)
 
 [Evolving Intrinsic Motivations For Altruistic Behavior](https://openreview.net/pdf?id=r1e-nj05FQ)
+
 
 # Deep Reinforcement Learning
 [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590)
