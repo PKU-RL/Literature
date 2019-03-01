@@ -1,5 +1,13 @@
 # MARL 2019
 
+Multi-Agent Common Knowledge Reinforcement Learning
+
+Multi-Agent Generalized Recursive Reasoning
+
+Theory of Minds: Understanding Behavior in Groups Through Inverse Planning
+
+[Emergent Coordination Through Competition](https://arxiv.org/abs/1902.07151)
+
 [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/pdf?id=rkl6As0cF7)
 
 [Relational Forward Models for Multi-Agent Learning](https://openreview.net/pdf?id=rJlEojAqFm)
@@ -29,23 +37,12 @@
 [Modeling Others using Oneself in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1802.09640)    
 *An agent learns the hidden goal of other player and feeds it together with its own goal and observation into policy network.*
 
-[Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents](https://arxiv.org/abs/1802.08757)
-
-[Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW)
-
 [Individualized Controlled Continuous Communication Model for Multiagent Cooperative and Competitive Tasks](https://openreview.net/forum?id=rye7knCqK7)
 
 [Actor-Attention-Critic for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=HJx7l309Fm)    
 *The paper is similar to MADDPG, but uses multihead attended encoding of agent's observation and action as input for centralized critic.*
 
-[Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://openreview.net/forum?id=SJxu5iR9KQ)    
-*This paper considers the bandwidth limitation, i.e., there are a fixed number of agents can communicate at the same time. Agents learns a weight generator that determines which agents should transmit messages similar to that in MAC protocol in wireless networks.* 
-
-[SSoC: Learning Spontaneous and Self-Organizing Communication for Multi-Agent Collaboration](https://openreview.net/forum?id=rJ4vlh0qtm)
-
 [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://openreview.net/forum?id=B1lG42C9Km)
-
-[TarMAC: Targeted Multi-Agent Communication](https://arxiv.org/abs/1810.11187)
 
 [Evolving Intrinsic Motivations For Altruistic Behavior](https://openreview.net/pdf?id=r1e-nj05FQ)
 
@@ -74,15 +71,34 @@
 [IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control](https://faculty.ist.psu.edu/jessieli/Publications/2018-KDD-IntelliLight.pdf)
 
 
-# Multi-Agent Reinforcement Learning (required for those who are not familiar with MARL)
+# MARL with Communication
+
+Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks
+
+Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation
+
+Multiagent Bidirectionally-Coordinated Nets: Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games
+
+Learning attentional communication for multi-Agent cooperation
+
 Learning multiagent communication with backpropagation
 
 Learning to communicate with deep multi-agent reinforcement learning
 
+[Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents](https://arxiv.org/abs/1802.08757)
+
+[TarMAC: Targeted Multi-Agent Communication](https://arxiv.org/abs/1810.11187)
+
+[Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW)
+
+[Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://openreview.net/forum?id=SJxu5iR9KQ)    
+
+[SSoC: Learning Spontaneous and Self-Organizing Communication for Multi-Agent Collaboration](https://openreview.net/forum?id=rJ4vlh0qtm)
+
+# Multi-Agent Reinforcement Learning (required for those who are not familiar with MARL)
+
 Multi-agent actor-critic for mixed cooperative-competitive environments
 
 Counterfactual multi-agent policy gradients
-
-Learning attentional communication for multi-Agent cooperation
 
 Mean field multi-agent reinforcement learning
