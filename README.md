@@ -21,8 +21,6 @@ Theory of Minds: Understanding Behavior in Groups Through Inverse Planning
 
 # Recent Multi-Agent Reinforcement Learning
 
-[Credit Assignment For Collective Multiagent RL with Global Rewards](https://papers.nips.cc/paper/8033-credit-assignment-for-collective-multiagent-rl-with-global-rewards.pdf)
-
 [Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/abs/1805.07830)
 
 [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](https://arxiv.org/abs/1801.02124)
@@ -37,8 +35,6 @@ Theory of Minds: Understanding Behavior in Groups Through Inverse Planning
 [Modeling Others using Oneself in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1802.09640)    
 *An agent learns the hidden goal of other player and feeds it together with its own goal and observation into policy network.*
 
-[Individualized Controlled Continuous Communication Model for Multiagent Cooperative and Competitive Tasks](https://openreview.net/forum?id=rye7knCqK7)
-
 [Actor-Attention-Critic for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=HJx7l309Fm)    
 *The paper is similar to MADDPG, but uses multihead attended encoding of agent's observation and action as input for centralized critic.*
 
@@ -48,6 +44,7 @@ Theory of Minds: Understanding Behavior in Groups Through Inverse Planning
 
 
 # Deep Reinforcement Learning
+
 [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590)
 
 [The Reactor: A Fast and Sample-efficient Actor-Critic Agent for Reinforcement Learning](https://arxiv.org/abs/1704.04651)
@@ -69,6 +66,17 @@ Theory of Minds: Understanding Behavior in Groups Through Inverse Planning
 [Reinforcement Learning for Solving the Vehicle Routing Problem](https://arxiv.org/abs/1802.04240)
 
 [IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control](https://faculty.ist.psu.edu/jessieli/Publications/2018-KDD-IntelliLight.pdf)
+
+
+# MARL with Global Rewards
+
+Counterfactual multi-agent policy gradients
+
+Value-Decomposition Networks For Cooperative Multi-Agent Learning Based On Team Reward
+
+[Credit Assignment For Collective Multiagent RL with Global Rewards](https://papers.nips.cc/paper/8033-credit-assignment-for-collective-multiagent-rl-with-global-rewards.pdf)
+
+QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning
 
 
 # MARL with Communication
@@ -94,6 +102,9 @@ Learning to communicate with deep multi-agent reinforcement learning
 [Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://openreview.net/forum?id=SJxu5iR9KQ)    
 
 [SSoC: Learning Spontaneous and Self-Organizing Communication for Multi-Agent Collaboration](https://openreview.net/forum?id=rJ4vlh0qtm)
+
+[Individualized Controlled Continuous Communication Model for Multiagent Cooperative and Competitive Tasks](https://openreview.net/forum?id=rye7knCqK7)
+
 
 # Multi-Agent Reinforcement Learning (required for those who are not familiar with MARL)
 
