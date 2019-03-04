@@ -12,8 +12,6 @@ Theory of Minds: Understanding Behavior in Groups Through Inverse Planning
 
 [Relational Forward Models for Multi-Agent Learning](https://openreview.net/pdf?id=rJlEojAqFm)
 
-[Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://openreview.net/pdf?id=rye7knCqK7)
-
 [M^3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://openreview.net/pdf?id=BkzeUiRcY7)
 
 [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/abs/1901.08492)
@@ -105,6 +103,7 @@ Learning to communicate with deep multi-agent reinforcement learning
 
 [Individualized Controlled Continuous Communication Model for Multiagent Cooperative and Competitive Tasks](https://openreview.net/forum?id=rye7knCqK7)
 
+[Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://openreview.net/pdf?id=rye7knCqK7)
 
 # Multi-Agent Reinforcement Learning (required for those who are not familiar with MARL)
 
