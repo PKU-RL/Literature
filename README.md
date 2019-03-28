@@ -30,25 +30,6 @@
 [Evolving Intrinsic Motivations For Altruistic Behavior](https://openreview.net/pdf?id=r1e-nj05FQ)
 
 
-# Recent DRL
-
-[Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590)
-
-[The Reactor: A Fast and Sample-efficient Actor-Critic Agent for Reinforcement Learning](https://arxiv.org/abs/1704.04651)
-
-[Distributed Distributional Deterministic Policy Gradients](https://arxiv.org/abs/1804.08617)
-
-[Graph Networks as Learnable Physics Engines for Inference and Control](https://arxiv.org/abs/1806.01242)
-
-[Learning by Playing - Solving Sparse Reward Tasks from Scratch](https://arxiv.org/abs/1802.10567)
-
-[Automatic Goal Generation for Reinforcement Learning Agents](https://arxiv.org/abs/1705.06366)
-
-[IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)
-
-[Latent Space Policies for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1804.02808)
-
-
 # Opponent Modeling
 
 [Learning Policy Representations in Multiagent Systems](https://arxiv.org/abs/1806.06464) 
