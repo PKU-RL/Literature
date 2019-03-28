@@ -4,8 +4,6 @@ Multi-Agent Common Knowledge Reinforcement Learning
 
 Multi-Agent Generalized Recursive Reasoning
 
-Theory of Minds: Understanding Behavior in Groups Through Inverse Planning
-
 [Emergent Coordination Through Competition](https://arxiv.org/abs/1902.07151)
 
 [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/pdf?id=rkl6As0cF7)
@@ -25,13 +23,7 @@ Theory of Minds: Understanding Behavior in Groups Through Inverse Planning
 
 [Structured Control Nets for Deep Reinforcement Learning](https://arxiv.org/abs/1802.08311)
 
-[Learning Policy Representations in Multiagent Systems](https://arxiv.org/abs/1806.06464)     
-*An agent learns a policy network conditioned by the learned representation of other agents' policy*
-
 [Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision Problems](http://proceedings.mlr.press/v80/bargiacchi18a.html)
-
-[Modeling Others using Oneself in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1802.09640)    
-*An agent learns the hidden goal of other player and feeds it together with its own goal and observation into policy network.*
 
 [Actor-Attention-Critic for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=HJx7l309Fm)    
 *The paper is similar to MADDPG, but uses multihead attended encoding of agent's observation and action as input for centralized critic.*
@@ -60,10 +52,17 @@ Theory of Minds: Understanding Behavior in Groups Through Inverse Planning
 [Latent Space Policies for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1804.02808)
 
 
-# Applications
-[Reinforcement Learning for Solving the Vehicle Routing Problem](https://arxiv.org/abs/1802.04240)
+# Opponent Modeling
 
-[IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control](https://faculty.ist.psu.edu/jessieli/Publications/2018-KDD-IntelliLight.pdf)
+[Learning Policy Representations in Multiagent Systems](https://arxiv.org/abs/1806.06464) 
+
+[Modeling Others using Oneself in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1802.09640)    
+
+[Opponent Modeling in Deep Reinforcement Learning](https://arxiv.org/abs/1609.05559)
+
+[Machine Theory of Mind](https://arxiv.org/abs/1802.07740)
+
+[Theory of Minds: Understanding Behavior in Groups Through Inverse Planning](https://arxiv.org/abs/1901.06085)
 
 
 # MARL with Global Rewards
@@ -79,17 +78,13 @@ QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement 
 
 # MARL with Communication
 
-Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks
+Learning multiagent communication with backpropagation
 
-Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation
+Learning to communicate with deep multi-agent reinforcement learning
 
 Multiagent Bidirectionally-Coordinated Nets: Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games
 
 Learning attentional communication for multi-Agent cooperation
-
-Learning multiagent communication with backpropagation
-
-Learning to communicate with deep multi-agent reinforcement learning
 
 [Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents](https://arxiv.org/abs/1802.08757)
 
@@ -105,10 +100,24 @@ Learning to communicate with deep multi-agent reinforcement learning
 
 [Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://openreview.net/pdf?id=rye7knCqK7)
 
-# Multi-Agent Reinforcement Learning (required for those who are not familiar with MARL)
+
+# Multi-Agent Reinforcement Learning
 
 Multi-agent actor-critic for mixed cooperative-competitive environments
 
-Counterfactual multi-agent policy gradients
-
 Mean field multi-agent reinforcement learning
+
+Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation
+
+
+# Deep Reinforcement Learning
+
+[DQN](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
+
+[DDPG](https://arxiv.org/pdf/1509.02971)
+
+[PPO](https://arxiv.org/abs/1707.06347)
+
+[A3C](https://arxiv.org/abs/1602.01783)
+
+[TRPO](https://arxiv.org/abs/1502.05477)
