@@ -103,11 +103,11 @@ Learning attentional communication for multi-Agent cooperation
 
 # Multi-Agent Reinforcement Learning
 
-Multi-agent actor-critic for mixed cooperative-competitive environments
+(MADDPG)[Multi-agent actor-critic for mixed cooperative-competitive environments](https://arxiv.org/abs/1706.02275)
 
-Mean field multi-agent reinforcement learning
+[Mean field multi-agent reinforcement learning](https://arxiv.org/abs/1802.05438)
 
-Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation
+(DGN)[Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation](https://arxiv.org/pdf/1810.09202)
 
 
 # Deep Reinforcement Learning
