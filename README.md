@@ -1,8 +1,9 @@
-# MARL 2019
 
-Multi-Agent Common Knowledge Reinforcement Learning
+# Recent MARL
 
-Multi-Agent Generalized Recursive Reasoning
+[Multi-Agent Common Knowledge Reinforcement Learning](https://arxiv.org/abs/1810.11702)
+
+[Multi-Agent Generalized Recursive Reasoning](https://arxiv.org/abs/1901.09216)
 
 [Emergent Coordination Through Competition](https://arxiv.org/abs/1902.07151)
 
@@ -14,9 +15,6 @@ Multi-Agent Generalized Recursive Reasoning
 
 [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/abs/1901.08492)
 
-
-# Recent Multi-Agent Reinforcement Learning
-
 [Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/abs/1805.07830)
 
 [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](https://arxiv.org/abs/1801.02124)
@@ -26,14 +24,13 @@ Multi-Agent Generalized Recursive Reasoning
 [Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision Problems](http://proceedings.mlr.press/v80/bargiacchi18a.html)
 
 [Actor-Attention-Critic for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=HJx7l309Fm)    
-*The paper is similar to MADDPG, but uses multihead attended encoding of agent's observation and action as input for centralized critic.*
 
 [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://openreview.net/forum?id=B1lG42C9Km)
 
 [Evolving Intrinsic Motivations For Altruistic Behavior](https://openreview.net/pdf?id=r1e-nj05FQ)
 
 
-# Deep Reinforcement Learning
+# Recent DRL
 
 [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590)
 
@@ -67,24 +64,24 @@ Multi-Agent Generalized Recursive Reasoning
 
 # MARL with Global Rewards
 
-Counterfactual multi-agent policy gradients
+[Counterfactual multi-agent policy gradients](https://arxiv.org/abs/1705.08926)
 
-Value-Decomposition Networks For Cooperative Multi-Agent Learning Based On Team Reward
+[Value-Decomposition Networks For Cooperative Multi-Agent Learning Based On Team Reward](https://arxiv.org/abs/1706.05296)
 
 [Credit Assignment For Collective Multiagent RL with Global Rewards](https://papers.nips.cc/paper/8033-credit-assignment-for-collective-multiagent-rl-with-global-rewards.pdf)
 
-QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning
+[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)
 
 
 # MARL with Communication
 
-Learning multiagent communication with backpropagation
+[Learning multiagent communication with backpropagation](https://arxiv.org/abs/1605.07736)
 
-Learning to communicate with deep multi-agent reinforcement learning
+[Learning to communicate with deep multi-agent reinforcement learning](https://arxiv.org/abs/1605.06676)
 
-Multiagent Bidirectionally-Coordinated Nets: Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games
+[Multiagent Bidirectionally-Coordinated Nets: Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games](https://arxiv.org/abs/1703.10069)
 
-Learning attentional communication for multi-Agent cooperation
+[Learning attentional communication for multi-agent cooperation](https://arxiv.org/abs/1805.07733)
 
 [Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents](https://arxiv.org/abs/1802.08757)
 
