@@ -57,7 +57,9 @@
 # MARL with Dialogue
 
 [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/abs/1612.07182)
+
 [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://papers.nips.cc/paper/6810-emergence-of-language-with-multi-agent-games-learning-to-communicate-with-sequences-of-symbols.pdf)
+
 [Emergent Communication Through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW)
 
 # MARL with Communication
