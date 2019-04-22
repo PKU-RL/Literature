@@ -54,6 +54,12 @@
 [QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)
 
 
+# MARL with Dialogue
+
+[Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/abs/1612.07182)
+[Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://papers.nips.cc/paper/6810-emergence-of-language-with-multi-agent-games-learning-to-communicate-with-sequences-of-symbols.pdf)
+[Emergent Communication Through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW)
+
 # MARL with Communication
 
 [Learning multiagent communication with backpropagation](https://arxiv.org/abs/1605.07736)
@@ -68,13 +74,9 @@
 
 [TarMAC: Targeted Multi-Agent Communication](https://arxiv.org/abs/1810.11187)
 
-[Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW)
-
 [Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://openreview.net/forum?id=SJxu5iR9KQ)    
 
 [SSoC: Learning Spontaneous and Self-Organizing Communication for Multi-Agent Collaboration](https://openreview.net/forum?id=rJ4vlh0qtm)
-
-[Individualized Controlled Continuous Communication Model for Multiagent Cooperative and Competitive Tasks](https://openreview.net/forum?id=rye7knCqK7)
 
 [Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://openreview.net/pdf?id=rye7knCqK7)
 
