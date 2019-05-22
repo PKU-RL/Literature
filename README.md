@@ -45,6 +45,9 @@
 
 # MARL with Global Rewards
 
+[QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning
+](https://arxiv.org/abs/1905.05408)
+
 [Counterfactual multi-agent policy gradients](https://arxiv.org/abs/1705.08926)
 
 [Value-Decomposition Networks For Cooperative Multi-Agent Learning Based On Team Reward](https://arxiv.org/abs/1706.05296)
