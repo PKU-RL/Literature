@@ -99,10 +99,12 @@
 
 [DQN](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
 
-[DDPG](https://arxiv.org/pdf/1509.02971)
+[DDPG](https://arxiv.org/abs/1509.02971)
 
 [PPO](https://arxiv.org/abs/1707.06347)
 
 [A3C](https://arxiv.org/abs/1602.01783)
 
 [TRPO](https://arxiv.org/abs/1502.05477)
+
+[SAC](https://arxiv.org/abs/1801.01290)
