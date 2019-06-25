@@ -29,6 +29,8 @@
 
 [Evolving Intrinsic Motivations For Altruistic Behavior](https://openreview.net/pdf?id=r1e-nj05FQ)
 
+[Learning Transferable Cooperative Behavior in Multi-Agent Teams](https://arxiv.org/abs/1906.01202)
+
 
 # Opponent Modeling
 
