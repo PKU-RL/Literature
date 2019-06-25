@@ -1,6 +1,10 @@
 
 # Recent MARL
 
+[Learning Transferable Cooperative Behavior in Multi-Agent Teams](https://arxiv.org/abs/1906.01202)
+
+[Attentional Policies for Cross-Context Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1905.13428)
+
 [Multi-Agent Common Knowledge Reinforcement Learning](https://arxiv.org/abs/1810.11702)
 
 [Multi-Agent Generalized Recursive Reasoning](https://arxiv.org/abs/1901.09216)
@@ -29,7 +33,7 @@
 
 [Evolving Intrinsic Motivations For Altruistic Behavior](https://openreview.net/pdf?id=r1e-nj05FQ)
 
-[Learning Transferable Cooperative Behavior in Multi-Agent Teams](https://arxiv.org/abs/1906.01202)
+
 
 
 # Opponent Modeling
