@@ -1,6 +1,8 @@
 
 # Recent MARL
 
+[Learning Hierarchical Teaching in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/pdf/1903.03216.pdf)
+
 [Learning to Interactively Learn and Assist](https://arxiv.org/pdf/1906.10187.pdf)
 
 [Learning Transferable Cooperative Behavior in Multi-Agent Teams](https://arxiv.org/abs/1906.01202)
