@@ -1,6 +1,8 @@
 
 # Recent MARL
 
+[Learning to Interactively Learn and Assist](https://arxiv.org/pdf/1906.10187.pdf)
+
 [Learning Transferable Cooperative Behavior in Multi-Agent Teams](https://arxiv.org/abs/1906.01202)
 
 [Attentional Policies for Cross-Context Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1905.13428)
