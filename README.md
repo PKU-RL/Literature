@@ -95,6 +95,9 @@
 
 [Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://openreview.net/pdf?id=rye7knCqK7)
 
+[Learning Structured Communication for Multi-Agent Reinforcement Learning](https://openreview.net/pdf?id=BklWt24tvH)
+
+[Learning Multi-Agent Communication Through Structured Attentive Reasoning](https://openreview.net/pdf?id=H1lVIxHtPS)
 
 # Multi-Agent Reinforcement Learning
 
