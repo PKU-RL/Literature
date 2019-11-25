@@ -67,7 +67,9 @@
 [QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)
 
 
-# MARL with Dialogue
+# MARL with Emergent Communication
+
+[Biases for Emergent Communication in Multi-agent Reinforcement Learning](https://papers.nips.cc/paper/9470-biases-for-emergent-communication-in-multi-agent-reinforcement-learning.pdf)
 
 [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/abs/1612.07182)
 
