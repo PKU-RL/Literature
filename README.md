@@ -1,7 +1,6 @@
 
 # Recent MARL
 
-[Learning Hierarchical Teaching in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/pdf/1903.03216.pdf)
 
 [Learning to Interactively Learn and Assist](https://arxiv.org/pdf/1906.10187.pdf)
 
@@ -21,8 +20,6 @@
 
 [M^3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://openreview.net/pdf?id=BkzeUiRcY7)
 
-[Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/abs/1901.08492)
-
 [Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/abs/1805.07830)
 
 [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](https://arxiv.org/abs/1801.02124)
@@ -38,7 +35,15 @@
 [Evolving Intrinsic Motivations For Altruistic Behavior](https://openreview.net/pdf?id=r1e-nj05FQ)
 
 
+# Hierarchical MARL
 
+[Learning to Coordinate Manipulation Skills via Skill Behavior Diversification](https://openreview.net/pdf?id=ryxB2lBtvH)
+
+[Learning Hierarchical Teaching in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/pdf/1903.03216.pdf)
+
+[Learning Fairness in Multi-Agent Systems](http://papers.nips.cc/paper/9537-learning-fairness-in-multi-agent-systems)
+
+[Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/abs/1901.08492)
 
 # Opponent Modeling
 
@@ -54,6 +59,8 @@
 
 
 # MARL with Global Rewards
+
+[LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning](http://papers.nips.cc/paper/8691-liir-learning-individual-intrinsic-reward-in-multi-agent-reinforcement-learning)
 
 [QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning
 ](https://arxiv.org/abs/1905.05408)
@@ -76,6 +83,7 @@
 [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://papers.nips.cc/paper/6810-emergence-of-language-with-multi-agent-games-learning-to-communicate-with-sequences-of-symbols.pdf)
 
 [Emergent Communication Through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW)
+
 
 # MARL with Communication
 
@@ -100,6 +108,11 @@
 [Learning Structured Communication for Multi-Agent Reinforcement Learning](https://openreview.net/pdf?id=BklWt24tvH)
 
 [Learning Multi-Agent Communication Through Structured Attentive Reasoning](https://openreview.net/pdf?id=H1lVIxHtPS)
+
+[Learning Nearly Decomposable Value Functions Via Communication Minimization](https://openreview.net/pdf?id=HJx-3grYDB)
+
+[Efficient Communication in Multi-Agent Reinforcement Learning via Variance Based Control](http://papers.nips.cc/paper/8586-efficient-communication-in-multi-agent-reinforcement-learning-via-variance-based-control.pdf)
+
 
 # Multi-Agent Reinforcement Learning
 
