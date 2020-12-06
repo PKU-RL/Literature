@@ -8,7 +8,3 @@
 
 [Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles](https://arxiv.org/abs/2010.14641)
 
-
-## Miscellaneous
-
-[Estimating Q(s,s') with Deep Determinstic Dynamic Gradients](https://arxiv.org/pdf/2002.09505.pdf)
